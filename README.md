@@ -23,4 +23,4 @@ pré-requisitos do projeto:
 * [REACT.js](https://pt-br.reactjs.org/)
 * [Referência do Visual Code, para download](https://code.visualstudio.com/)
 
-email:sergiosilveira.desenvolvedor.web@gmail.com
+email:sergio.desenvolvedor.web@gmail.com
