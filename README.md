@@ -16,7 +16,7 @@ pré-requisitos do projeto:
 * Controle de versão GIT instalado na sua máquina.
 * Conta no GitHub para o armazenamento do seu projeto na nuvem.
 * Node
-* yarn
+* Yarn
 * REACT.js
 
 Abaixo, seguem links bem bacanas, sobre tópicos das tecnologias do projeto:
