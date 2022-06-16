@@ -6,7 +6,9 @@ Sistema com API Open Source de Previsão do Tempo desenvolvida com REACT.js
 
 Para executar o APP no terminal, digite o seguinte comando:
 
-```cd name-folder / npm i / npm start 
+```
+cd name-folder / yarn i / yarn start 
+
 ```
 pré-requisitos do projeto:
 
@@ -14,11 +16,10 @@ pré-requisitos do projeto:
 * Controle de versão GIT instalado na sua máquina.
 * Conta no GitHub para o armazenamento do seu projeto na nuvem.
 * Node
-* NPM 
+* YARN
 * REACT.js
 
-
-  Abaixo, seguem links bem bacanas, sobre tópicos das tecnologias do projeto:
+Abaixo, seguem links bem bacanas, sobre tópicos das tecnologias do projeto:
 
 * [REACT.js](https://pt-br.reactjs.org/)
 * [Referência do Visual Code, para download](https://code.visualstudio.com/)
